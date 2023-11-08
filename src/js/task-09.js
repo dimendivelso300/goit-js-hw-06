@@ -9,6 +9,6 @@ document.querySelector(".change-color").addEventListener("click", function () {
 
 
   const colorSpan = document.querySelector(".color");
-  colorSpan.textContent = color;
+  colorSpan.textContent = newcolor;
 });
 
